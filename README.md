@@ -16,4 +16,4 @@ Feature: Alugar carro para viagem
     When o sistema processar a locação
     Then o sistema deve encontrar um veículo disponível
     And o sistema deve processar a locação rapidamente
-    And o sistema deve aplicar um custo adicional devido à demanda urgente
+    And o sistema deve aplicar um custo adicional devido à demanda urgente.
